@@ -6,6 +6,13 @@
 ![Modules](https://img.shields.io/badge/Concept-Module%20Systems-blue)
 ![Architecture](https://img.shields.io/badge/Focus-Backend%20Fundamentals-orange)
 
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/ecmascript.png" width="900">
+</p>
+
 ---
 
 # Node.js Module Systems Architecture
